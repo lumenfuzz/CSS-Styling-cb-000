@@ -1,0 +1,11 @@
+/* CSS Syntax:
+
+selector {
+  property: value;
+}
+
+ */
+
+ p {
+   font-size: 16px; /*also 100%, 1em, etc. */
+ }
