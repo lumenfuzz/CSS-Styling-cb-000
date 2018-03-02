@@ -13,4 +13,6 @@ figcaption {
   font-family: Georgia, Times, serif;
   */
   font: normal 0.75em/1.5em Georgia, Times, serif;
+  color: #777;
+  text-align: right;
 }
